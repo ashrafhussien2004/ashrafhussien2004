@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashraf Hussien
-- 👀 I’m interested in Develop Mobile Applications
+- 👀 I’m interested in Network Engineer and DevOps
 - 🌱 I’m currently learning In EELU University (IT)
 - 📫 How to reach me : phone >> 01148594440 , email >> ashrafhessin153@gmail.com
 <!---
